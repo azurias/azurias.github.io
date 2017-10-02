@@ -147,7 +147,7 @@ section{
 /*Sections*/
 
 #pillsSection, #Hunters, #joinUs{
-    background: url(../images/_bg_white.png) 0 0 repeat;
+    background: url(../images/bgWhite.png) 0 0 repeat;
     overflow: hidden;
     clear: both;
 }
@@ -299,7 +299,7 @@ h2.deadTitle{
 /* reward section */
 
 #rewardSection, #aboutRing, #contactUs{
-    background: url(../images/_bg_black.png) 0 0 repeat;
+    background: url(../images/bgBlack.png) 0 0 repeat;
     overflow: hidden;
     color: #fff;
 }
@@ -380,7 +380,7 @@ footer p.logo{
 .btn-fan, .btn-fan:hover{
     background-color: transparent;;
     border: 0;
-    background: url(../images/_mini_ring.png) 0 0 no-repeat;
+    background: url(../images/miniRing.png) 0 0 no-repeat;
     width: 124px;
     height: 35px;
     padding-left:30px;
